@@ -38,7 +38,7 @@ I've been actively contributing to various open-source projects. Here are some o
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/chauhan3)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chauhan3)
 - Email: youremail@example.com
 
 Feel free to explore my repositories, leave feedback, or reach out to me for collaboration opportunities. Let's connect and build amazing things together! 🌟
