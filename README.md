@@ -4,15 +4,15 @@
 
 ## About Me
 
-Hey there! I'm [Your Name], a passionate [Your Occupation] with a love for [Your Interests]. I'm currently exploring the vast world of programming and software development, constantly learning and growing along the way. This GitHub profile serves as a showcase of my projects, contributions, and journey in the tech world.
+Hey there! I'm Jaydeep Chauhan, a passionate ML and Audio researcher with a love for coding. I'm currently exploring the vast world of programming and software development, constantly learning and growing along the way. This GitHub profile serves as a showcase of my projects, contributions, and journey in the tech world.
 
 ## 🚀 My Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML/CSS, React.js, Node.js
-- Database: SQL, MongoDB
-- Version Control: Git, GitHub
-- Other Tools: VS Code, Docker
+- Programming Languages: Python, JavaScript, GoLang
+- Web Development: HTML/CSS
+- Database: MS-SQL, MySQL
+- Version Control: Git, GitHub, GitLab
+- Other Tools: VS Code, Docker, PyCharm
 
 ## 🌱 Current Projects
 
