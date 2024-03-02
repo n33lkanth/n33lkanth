@@ -4,6 +4,10 @@
 
 Hey there! I'm Jaydeep Chauhan, a passionate ML and Audio researcher with a love for coding. I'm currently exploring the vast world of programming and software development, constantly learning and growing along the way. This GitHub profile serves as a showcase of my projects, contributions, and journey in the tech world.
 
+## 🏆 GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 My Skills
 
 - Programming Languages: Python, JavaScript, GoLang
