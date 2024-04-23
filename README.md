@@ -37,12 +37,12 @@ I've been actively contributing to various open-source projects. Here are some o
   - Pull Request: [Link](https://github.com/repo-owner/repo/pull/123)
 
 - **Contribution**: Description of the contribution.
-  - Repository: [Link](https://github.com/repo-owner/repo)
-  - Issue: [Link](https://github.com/repo-owner/repo/issues/456)
+  - Repository: https://github.com/repo-owner/repo
+  - Issue: https://github.com/repo-owner/repo/issues/456
 
 ## 📫 Get in Touch
 
-- LinkedIn: [[Link](https://www.linkedin.com/in/chauhan3)](https://www.linkedin.com/in/chauhan3)
+- LinkedIn: https://www.linkedin.com/in/chauhan3
 - Email: youremail@example.com
 
 Feel free to explore my repositories, leave feedback, or reach out to me for collaboration opportunities. Let's connect and build amazing things together! 🌟
