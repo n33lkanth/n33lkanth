@@ -10,11 +10,16 @@ Hey there! I'm Jaydeep Chauhan, a passionate ML and Audio researcher with a love
 
 ## 🚀 My Skills
 
-- Programming Languages: Python, JavaScript, GoLang
-- Web Development: HTML/CSS
-- Database: MS-SQL, MySQL
-- Version Control: Git, GitHub, GitLab
-- Other Tools: VS Code, Docker, PyCharm
+- Programming Languages: Python, Golang, Javascript, C, C++
+- Machine & Deep Learning: Machine Learning, Deep Learning, NLP, Computer Vision
+- Data Manipulation & Analysis: Data Visualization, Data Cleaning, Feature Engineering, Feature Selection, Feature Extraction
+- Data Science Libraries: NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn
+- Databases: MS-SQL, My SQL, MongoDB, PostgreSQL
+- Version Control: GitHub, GitLab, SVN
+- Framework & Libraries: TensorFlow, Keras, PyTorch, Flask, Pandas, Numpy, Scikit-learn, PyTest
+- Containerization: Docker, GitLab CI/CD
+- Other tools: HTML, CSS, Draw.io, Jira, Agile Methods, PyCharm, VSCode
+- Languages: English (Fluent), German (Learning A2), Hindi (Native)
 
 ## 🌱 Current Projects
 
