@@ -51,3 +51,6 @@ I've been actively contributing to various open-source projects. Here are some o
 - Email: youremail@example.com
 
 Feel free to explore my repositories, leave feedback, or reach out to me for collaboration opportunities. Let's connect and build amazing things together! 🌟
+
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jayd33p.page.id)
