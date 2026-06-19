@@ -100,9 +100,9 @@ Developed deep learning approaches for sound event detection, audio classificati
 * **Empirical Study on DED-Arc Welding Quality Inspection Using Airborne Sound Analysis**
 * **Acoustic Insights into the Corn Extrusion Process for Enhanced Quality Control**
 
----
+<!--- ---
 
-<!--- ## 🏆 GitHub Trophies --->
+ ## 🏆 GitHub Trophies --->
 
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=n33lkanth)](https://github.com/ryo-ma/github-profile-trophy) --->
 
