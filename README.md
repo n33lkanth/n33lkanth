@@ -104,7 +104,7 @@ Developed deep learning approaches for sound event detection, audio classificati
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=n33lkanth\&theme=flat\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=n33lkanth)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
